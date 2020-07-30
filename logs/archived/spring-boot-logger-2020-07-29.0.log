@@ -1,0 +1,44 @@
+2020-07-29 07:09:35,275 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 6608 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-29 07:09:35,286 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-29 07:09:35,288 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-29 07:09:49,003 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 15.197 seconds (JVM running for 17.243)
+2020-07-29 07:13:19,762 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 6608 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-29 07:13:19,764 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-29 07:13:19,764 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-29 07:13:22,842 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 3.186 seconds (JVM running for 231.082)
+2020-07-29 07:16:14,570 INFO com.vyntra.vyntrau.controller.VyntraUserController [http-nio-8080-exec-5] USER asd is logged in
+2020-07-29 07:25:51,900 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-3] Page Not Found 404
+2020-07-29 07:27:10,246 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-2] Page Not Found 404
+2020-07-29 07:30:28,396 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 6608 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-29 07:30:28,397 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-29 07:30:28,400 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-29 07:30:31,285 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 7420 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-29 07:30:31,291 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-29 07:30:31,293 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-29 07:30:34,559 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 6.249 seconds (JVM running for 1262.799)
+2020-07-29 07:31:15,187 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 6556 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-29 07:31:15,192 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-29 07:31:15,193 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-29 07:31:24,157 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 9.807 seconds (JVM running for 10.636)
+2020-07-29 07:31:39,904 INFO com.vyntra.vyntrau.controller.VyntraUserController [http-nio-8080-exec-5] USER asd is logged in
+2020-07-29 07:32:14,295 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 6556 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-29 07:32:14,296 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-29 07:32:14,297 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-29 07:32:16,543 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 2.31 seconds (JVM running for 63.022)
+2020-07-29 12:42:54,747 INFO com.vyntra.vyntrau.controller.VyntraUserController [http-nio-8080-exec-8] USER asd is logged in
+2020-07-29 12:42:57,858 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-7] Page Not Found 404
+2020-07-29 12:43:04,053 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-6] Page Not Found 404
+2020-07-29 12:43:06,074 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-3] Page Not Found 404
+2020-07-29 23:13:01,338 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 6556 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-29 23:13:01,339 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-29 23:13:01,340 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-29 23:13:03,442 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 2.149 seconds (JVM running for 56547.869)
+2020-07-29 23:13:32,167 INFO com.vyntra.vyntrau.controller.VyntraUserController [http-nio-8080-exec-4] USER asd is logged in
+2020-07-29 23:14:46,034 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-2] Page Not Found 404
+2020-07-29 23:14:52,284 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-3] server error 500
+2020-07-29 23:15:00,253 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-4] Page Not Found 404
+2020-07-29 23:15:28,032 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-1] server error 500
+2020-07-29 23:18:12,399 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-4] Page Not Found 404
+2020-07-29 23:18:12,437 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-8] Page Not Found 404
+2020-07-29 23:34:08,366 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-8] Page Not Found 404
+2020-07-29 23:34:19,047 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-4] Page Not Found 404

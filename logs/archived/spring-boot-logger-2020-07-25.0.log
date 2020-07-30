@@ -1,0 +1,333 @@
+2020-07-25 07:34:31,697 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 14576 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 07:34:31,705 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 07:34:31,706 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 07:34:41,229 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 10.586 seconds (JVM running for 11.563)
+2020-07-25 07:41:01,061 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 14576 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 07:41:01,062 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 07:41:01,063 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 07:41:04,598 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 3.65 seconds (JVM running for 394.932)
+2020-07-25 07:45:10,418 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 14576 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 07:45:10,418 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 07:45:10,418 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 07:45:12,158 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.781 seconds (JVM running for 642.492)
+2020-07-25 09:00:10,091 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 14984 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 09:00:10,096 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 09:00:10,098 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 09:00:18,618 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 9.317 seconds (JVM running for 12.493)
+2020-07-25 09:08:18,514 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 14984 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 09:08:18,516 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 09:08:18,517 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 09:08:20,378 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.931 seconds (JVM running for 494.254)
+2020-07-25 09:10:38,598 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 14984 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 09:10:38,599 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 09:10:38,600 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 09:10:40,685 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 2.143 seconds (JVM running for 634.561)
+2020-07-25 09:11:29,266 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 14984 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 09:11:29,267 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 09:11:29,267 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 09:11:31,067 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.867 seconds (JVM running for 684.942)
+2020-07-25 09:17:00,556 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-4] Error has occured
+2020-07-25 09:17:53,277 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 14984 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 09:17:53,278 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 09:17:53,278 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 09:17:55,067 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.824 seconds (JVM running for 1068.943)
+2020-07-25 09:29:04,005 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 14984 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 09:29:04,006 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 09:29:04,006 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 09:29:05,463 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.498 seconds (JVM running for 1739.339)
+2020-07-25 09:38:30,058 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 14984 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 09:38:30,059 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 09:38:30,059 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 09:42:21,480 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 14984 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 09:42:21,480 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 09:42:21,481 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 09:42:23,680 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 2.265 seconds (JVM running for 2537.556)
+2020-07-25 09:42:57,479 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 14984 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 09:42:57,480 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 09:42:57,480 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 09:42:58,874 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.424 seconds (JVM running for 2572.749)
+2020-07-25 09:48:38,860 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-4] Error has occured
+2020-07-25 09:59:03,646 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 14984 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 09:59:03,647 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 09:59:03,647 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 09:59:04,904 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.288 seconds (JVM running for 3538.78)
+2020-07-25 10:02:05,987 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 14984 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 10:02:05,988 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 10:02:05,988 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 10:02:07,216 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.258 seconds (JVM running for 3721.091)
+2020-07-25 10:09:51,907 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 14984 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 10:09:51,908 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 10:09:51,908 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 10:09:53,101 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.222 seconds (JVM running for 4186.976)
+2020-07-25 11:39:18,613 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 14984 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 11:39:18,613 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 11:39:18,613 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 11:39:19,831 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.267 seconds (JVM running for 9553.709)
+2020-07-25 11:41:24,998 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 14984 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 11:41:24,999 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 11:41:24,999 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 11:41:26,030 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.059 seconds (JVM running for 9679.908)
+2020-07-25 11:43:06,716 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 14984 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 11:43:06,716 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 11:43:06,717 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 11:43:07,746 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.066 seconds (JVM running for 9781.624)
+2020-07-25 11:54:42,415 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-8] Error has occured
+2020-07-25 11:55:10,134 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-1] Error has occured
+2020-07-25 11:55:24,036 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-9] Error has occured
+2020-07-25 11:58:29,486 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-7] Error has occured
+2020-07-25 11:59:25,677 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-8] Error has occured
+2020-07-25 12:00:14,995 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-7] Error has occured
+2020-07-25 12:00:17,531 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-1] Error has occured
+2020-07-25 12:00:25,140 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-7] Error has occured
+2020-07-25 12:00:38,619 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-10] Error has occured
+2020-07-25 12:01:51,467 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 14984 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 12:01:51,468 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 12:01:51,468 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 12:01:52,777 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.339 seconds (JVM running for 10906.655)
+2020-07-25 12:02:11,826 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-10] Error has occured
+2020-07-25 12:04:32,309 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-2] Error has occured
+2020-07-25 12:04:48,629 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-6] Error has occured
+2020-07-25 12:12:42,204 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-8] Error has occured
+2020-07-25 12:13:01,731 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-10] Error has occured
+2020-07-25 12:15:35,029 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-10] server error
+2020-07-25 12:18:59,586 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-6] Error has occured
+2020-07-25 12:19:16,917 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-3] Error has occured
+2020-07-25 12:30:11,020 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 14984 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 12:30:11,021 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 12:30:11,021 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 12:30:12,167 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.172 seconds (JVM running for 12606.045)
+2020-07-25 13:12:39,682 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 14984 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 13:12:39,682 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 13:12:39,683 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 13:12:40,920 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.274 seconds (JVM running for 15154.798)
+2020-07-25 13:13:38,283 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 14984 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 13:13:38,284 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 13:13:38,284 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 13:13:39,239 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 0.983 seconds (JVM running for 15213.117)
+2020-07-25 13:58:19,932 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 1300 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 13:58:19,938 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 13:58:19,940 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 13:58:28,220 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 9.241 seconds (JVM running for 15.194)
+2020-07-25 14:17:30,266 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 5292 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 14:17:30,273 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 14:17:30,274 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 14:17:38,401 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 9.054 seconds (JVM running for 9.961)
+2020-07-25 14:21:35,614 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 5292 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 14:21:35,615 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 14:21:35,626 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 14:21:38,118 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 2.607 seconds (JVM running for 249.677)
+2020-07-25 14:30:51,196 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9548 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 14:30:51,201 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 14:30:51,202 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 14:31:00,652 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 10.594 seconds (JVM running for 11.794)
+2020-07-25 14:31:31,340 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9548 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 14:31:31,340 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 14:31:31,341 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 14:31:33,972 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 2.734 seconds (JVM running for 45.115)
+2020-07-25 14:31:51,370 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9548 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 14:31:51,371 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 14:31:51,373 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 14:31:53,147 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.942 seconds (JVM running for 64.29)
+2020-07-25 14:32:54,701 INFO com.vyntra.vyntrau.service.UserService [http-nio-8080-exec-1] asgsdhjut Successfully registered
+2020-07-25 14:37:49,059 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9548 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 14:37:49,059 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 14:37:49,062 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 14:37:50,852 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.837 seconds (JVM running for 421.994)
+2020-07-25 14:37:53,499 INFO com.vyntra.vyntrau.service.UserService [http-nio-8080-exec-1] asgsdhjut Successfully registered
+2020-07-25 14:39:34,895 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9548 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 14:39:34,896 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 14:39:34,898 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 14:39:36,842 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 2.065 seconds (JVM running for 527.984)
+2020-07-25 14:39:47,528 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9548 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 14:39:47,528 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 14:39:47,529 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 14:39:49,418 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.923 seconds (JVM running for 540.561)
+2020-07-25 14:48:38,086 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 6392 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 14:48:38,092 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 14:48:38,093 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 14:48:51,418 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 14.263 seconds (JVM running for 15.141)
+2020-07-25 14:49:10,375 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-1] Error has occured
+2020-07-25 14:50:20,791 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-8] Error has occured
+2020-07-25 14:50:22,299 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-9] Error has occured
+2020-07-25 14:50:35,407 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-1] Error has occured
+2020-07-25 14:50:58,600 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-5] Error has occured
+2020-07-25 14:51:30,335 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-6] Error has occured
+2020-07-25 15:01:34,396 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 6392 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 15:01:34,397 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 15:01:34,397 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 15:02:54,164 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 11656 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 15:02:54,168 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 15:02:54,169 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 15:03:02,274 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 9.086 seconds (JVM running for 10.202)
+2020-07-25 15:03:21,456 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-6] Page Not Found
+2020-07-25 15:05:10,661 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-10] Page Not Found
+2020-07-25 15:05:12,830 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-1] Page Not Found
+2020-07-25 15:06:10,408 INFO com.vyntra.vyntrau.service.UserService [http-nio-8080-exec-7] asdfg Successfully registered
+2020-07-25 15:07:31,457 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-1] Page Not Found
+2020-07-25 15:53:32,408 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 11656 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 15:53:32,409 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 15:53:32,410 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 15:53:34,233 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.922 seconds (JVM running for 3042.161)
+2020-07-25 15:54:02,861 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 11656 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 15:54:02,862 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 15:54:02,863 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 15:58:30,569 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 11192 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 15:58:30,584 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 15:58:30,586 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 15:58:41,852 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 12.374 seconds (JVM running for 14.01)
+2020-07-25 16:05:51,695 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 11192 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 16:05:51,697 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 16:05:51,697 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 16:05:53,779 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 2.156 seconds (JVM running for 445.938)
+2020-07-25 16:10:31,429 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 11192 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 16:10:31,429 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 16:10:31,430 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 16:10:33,895 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 2.541 seconds (JVM running for 726.053)
+2020-07-25 16:10:52,863 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-9] Page Not Found
+2020-07-25 16:40:05,593 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-6] server error
+2020-07-25 16:40:33,263 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-6] server error
+2020-07-25 16:40:39,112 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-6] server error
+2020-07-25 16:57:33,564 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 11192 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 16:57:33,565 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 16:57:33,567 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 16:57:35,216 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.696 seconds (JVM running for 3547.375)
+2020-07-25 16:57:48,691 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 11192 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 16:57:48,692 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 16:57:48,693 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 16:57:50,514 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.869 seconds (JVM running for 3562.672)
+2020-07-25 17:04:11,499 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 17:04:11,503 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 17:04:11,504 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 17:04:21,979 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 11.284 seconds (JVM running for 11.988)
+2020-07-25 17:09:54,235 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 17:09:54,236 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 17:09:54,237 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 17:09:57,738 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 3.608 seconds (JVM running for 347.748)
+2020-07-25 17:14:57,935 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 17:14:57,937 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 17:14:57,938 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 17:15:00,098 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 2.243 seconds (JVM running for 650.107)
+2020-07-25 17:15:13,632 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 17:15:13,633 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 17:15:13,633 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 17:15:15,206 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.621 seconds (JVM running for 665.215)
+2020-07-25 17:20:18,521 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 17:20:18,522 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 17:20:18,524 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 17:20:20,111 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.691 seconds (JVM running for 970.121)
+2020-07-25 17:22:03,485 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 17:22:03,485 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 17:22:03,486 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 17:22:05,670 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 2.242 seconds (JVM running for 1075.679)
+2020-07-25 17:23:21,715 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 17:23:21,716 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 17:23:21,716 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 17:24:50,874 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 17:24:50,874 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 17:24:50,874 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 17:24:52,708 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.886 seconds (JVM running for 1242.717)
+2020-07-25 17:25:26,227 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 17:25:26,228 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 17:25:26,228 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 17:25:28,344 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 2.152 seconds (JVM running for 1278.353)
+2020-07-25 17:26:27,648 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 17:26:27,648 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 17:26:27,648 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 17:26:46,141 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 17:26:46,141 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 17:26:46,142 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 17:26:47,426 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.323 seconds (JVM running for 1357.436)
+2020-07-25 17:29:18,748 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 17:29:18,748 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 17:29:18,748 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 17:29:20,343 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.632 seconds (JVM running for 1510.353)
+2020-07-25 17:30:39,559 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 17:30:39,560 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 17:30:39,560 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 17:30:40,892 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.361 seconds (JVM running for 1590.902)
+2020-07-25 17:32:30,914 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 17:32:30,914 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 17:32:30,915 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 17:32:32,331 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.45 seconds (JVM running for 1702.34)
+2020-07-25 17:32:40,447 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-1] Page Not Found
+2020-07-25 17:33:36,928 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 17:33:36,929 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 17:33:36,929 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 17:33:38,305 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.416 seconds (JVM running for 1768.314)
+2020-07-25 17:33:40,884 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-1] Error has occured
+2020-07-25 17:34:19,255 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-1] Error has occured
+2020-07-25 17:35:59,774 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 17:35:59,774 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 17:35:59,775 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 17:36:01,447 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.715 seconds (JVM running for 1911.457)
+2020-07-25 17:52:04,945 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-9] Page Not Found
+2020-07-25 18:12:17,136 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-3] Page Not Found
+2020-07-25 18:37:34,655 INFO com.vyntra.vyntrau.service.UserService [http-nio-8080-exec-7] pardhan Successfully registered
+2020-07-25 18:38:28,614 INFO com.vyntra.vyntrau.service.UserService [http-nio-8080-exec-7] pardhan Successfully registered
+2020-07-25 18:51:23,766 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 18:51:23,767 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 18:51:23,767 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 18:51:25,177 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.442 seconds (JVM running for 6435.187)
+2020-07-25 18:56:12,286 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 18:56:12,287 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 18:56:12,287 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 18:56:13,413 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.155 seconds (JVM running for 6723.423)
+2020-07-25 18:56:40,679 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 18:56:40,679 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 18:56:40,679 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 18:56:42,057 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.412 seconds (JVM running for 6752.067)
+2020-07-25 19:03:37,293 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 19:03:37,293 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 19:03:37,294 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 19:03:38,564 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.303 seconds (JVM running for 7168.574)
+2020-07-25 20:29:35,022 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 20:29:35,022 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 20:29:35,022 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 20:29:36,626 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.645 seconds (JVM running for 12326.636)
+2020-07-25 20:30:00,385 INFO com.vyntra.vyntrau.controller.VyntraAdminController [http-nio-8080-exec-5] ADMIN su is logged in
+2020-07-25 20:30:09,088 INFO com.vyntra.vyntrau.controller.VyntraAdminController [http-nio-8080-exec-3] ADMIN su is now looking at product list
+2020-07-25 20:30:20,082 INFO com.vyntra.vyntrau.controller.VyntraAdminController [http-nio-8080-exec-10] ADMIN su deleted a product with id 30
+2020-07-25 20:30:28,879 INFO com.vyntra.vyntrau.controller.VyntraAdminController [http-nio-8080-exec-6] ADMIN su is now looking at the full detail of users
+2020-07-25 20:30:42,930 INFO com.vyntra.vyntrau.controller.VyntraAdminController [http-nio-8080-exec-5] ADMIN su deleted a user with id 28
+2020-07-25 20:33:50,927 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 20:33:50,928 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 20:33:50,928 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 20:33:52,289 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.394 seconds (JVM running for 12582.298)
+2020-07-25 20:34:16,469 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 20:34:16,469 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 20:34:16,470 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 20:34:17,609 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.173 seconds (JVM running for 12607.618)
+2020-07-25 20:34:28,035 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 20:34:28,036 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 20:34:28,036 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 20:34:28,988 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 0.983 seconds (JVM running for 12618.998)
+2020-07-25 20:34:56,001 INFO com.vyntra.vyntrau.controller.VyntraAdminController [http-nio-8080-exec-3] ADMIN su is logged in
+2020-07-25 20:36:57,108 INFO com.vyntra.vyntrau.controller.VyntraUserController [http-nio-8080-exec-2] user/admin asd is logged in
+2020-07-25 20:37:12,229 INFO com.vyntra.vyntrau.controller.VyntraAdminController [http-nio-8080-exec-5] ADMIN nagato is logged in
+2020-07-25 20:38:57,466 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 20:38:57,466 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 20:38:57,468 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 20:38:58,998 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.571 seconds (JVM running for 12889.008)
+2020-07-25 20:39:08,188 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 9704 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 20:39:08,188 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 20:39:08,188 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 20:39:09,512 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 1.35 seconds (JVM running for 12899.522)
+2020-07-25 21:02:36,947 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 12612 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 21:02:36,951 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 21:02:36,951 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 21:02:49,824 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 13.669 seconds (JVM running for 14.662)
+2020-07-25 21:02:58,047 INFO com.vyntra.vyntrau.controller.VyntraUserController [http-nio-8080-exec-5] USER asd is logged in
+2020-07-25 21:16:49,301 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-6] Page Not Found404
+2020-07-25 21:17:59,144 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-6] Access Not Granted403
+2020-07-25 21:19:35,625 INFO com.vyntra.vyntrau.controller.VyntraUserController [http-nio-8080-exec-6] ADMIN su is logged in
+2020-07-25 21:19:42,375 INFO com.vyntra.vyntrau.controller.VyntraAdminController [http-nio-8080-exec-6] ADMIN su is now looking at product list
+2020-07-25 21:19:47,519 ERROR com.vyntra.vyntrau.exception.CustomGlobalExceptionHandler [http-nio-8080-exec-8] 200---NO SUCH PRODUCT ID FOUND
+2020-07-25 21:21:50,097 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 12612 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 21:21:50,099 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 21:21:50,099 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 21:21:52,549 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 2.509 seconds (JVM running for 1157.388)
+2020-07-25 21:22:00,931 ERROR com.vyntra.vyntrau.exception.CustomGlobalExceptionHandler [http-nio-8080-exec-1] 200---NO SUCH PRODUCT ID FOUND
+2020-07-25 21:23:00,089 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VyntrauApplication on SURAJ-PANDEY with PID 12612 (C:\Users\SURAJ\Desktop\front\vyntrau\target\classes started by SURAJ in C:\Users\SURAJ\Desktop\front\vyntrau)
+2020-07-25 21:23:00,089 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-07-25 21:23:00,090 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-07-25 21:23:02,072 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VyntrauApplication in 2.052 seconds (JVM running for 1226.911)

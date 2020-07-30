@@ -1,0 +1,3 @@
+2020-07-27 17:55:44,257 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-3] Page Not Found 404
+2020-07-27 18:18:15,481 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-2] server error 500
+2020-07-27 18:59:15,616 ERROR com.vyntra.vyntrau.controller.CustomErrorController [http-nio-8080-exec-10] Access Not Granted 403
