@@ -7,9 +7,9 @@
   <h3 align="center">Vyntra</h3>
   <br/>
    <p align="center">
-	E-commerce web application developed using Java 8, Spring Boot and MySQL 
+	 E-commerce web application developed using Java 8, Spring Boot and MySQL 
     <br />
-    <a href="https://github.com/UlbertAO/vyntra/docs"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/UlbertAO/vyntra/doc"><strong>Explore the doc »</strong></a>
     <br />
   </p>
 </p>
@@ -21,7 +21,7 @@
 
 ![Vyntra](https://i.imgur.com/H2wRxuo.jpeg)
 
-<br/><br/><br/>
+<br/>
 
 This application begun as Virtusa intern Project in june 2020.<br/>
 E-commerce web application developed using Java 8, Spring Boot and MySQL.<br/>
@@ -32,6 +32,7 @@ It’s platform where you can look for products and signup to take as many produ
 
 ## Technologies
 
+Uses FreeMarker as the template engine for the Frontend, which was styled using Bootstrap.<br/>
 The backend is developed in Java 8, using [Spring Boot](https://spring.io/projects/spring-boot) with Spring MVC, Spring JPA and Spring Security and some other additional dependencies.<br/>
 The development database and production database uses MySql. 
 
@@ -48,7 +49,7 @@ Clone the repo
 ```sh
 git clone https://github.com/UlbertAO/vyntra.git
 ```
-import the project in your favorite IDE mentioned above.
+Import the project in your favorite IDE mentioned above.
 <br/>
 RUN AND BROWSE
 
@@ -69,4 +70,4 @@ RUN AND BROWSE
 
 ![Vyntra](https://imgur.com/3NAHGYD.jpeg)
 
-For more details go through <a href="https://github.com/UlbertAO/vyntra/docs">documentation</a>
+For more details go through <a href="https://github.com/UlbertAO/vyntra/doc">documentation</a>
