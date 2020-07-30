@@ -9,7 +9,7 @@
    <p align="center">
 	 E-commerce web application developed using Java 8, Spring Boot and MySQL 
     <br />
-    <a href="https://github.com/UlbertAO/vyntra/doc"><strong>Explore the doc »</strong></a>
+    <a href="https://github.com/UlbertAO/vyntra/tree/master/doc"><strong>Explore the doc »</strong></a>
     <br />
   </p>
 </p>
@@ -70,4 +70,4 @@ RUN AND BROWSE
 
 ![Vyntra](https://imgur.com/3NAHGYD.jpeg)
 
-For more details go through <a href="https://github.com/UlbertAO/vyntra/doc">documentation</a>
+For more details go through <a href="https://github.com/UlbertAO/vyntra/tree/master/doc">documentation</a>
